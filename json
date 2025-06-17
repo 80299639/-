@@ -1,0 +1,16 @@
+{
+  "icons": [
+    {
+      "name": "home",
+      "category": "navigation",
+      "svg": "<svg>...</svg>",
+      "tags": ["house", "main"]
+    },
+    {
+      "name": "search",
+      "category": "action",
+      "svg": "<svg>...</svg>",
+      "tags": ["find", "magnify"]
+    }
+  ]
+}
